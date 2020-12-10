@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067875824075",
+    "firebase_url": "https://smart-button-e9ec1.firebaseio.com",
+    "project_id": "smart-button-e9ec1",
+    "storage_bucket": "smart-button-e9ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067875824075:android:665364493a5aecbd05464e",
+        "android_client_info": {
+          "package_name": "com.vaagdevi.smartbutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067875824075-2visqlbnhl70ke39mevur51rb9i9e5mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC59GKw7AeMip0nEjbd9QjYxReSdlgBjCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067875824075-2visqlbnhl70ke39mevur51rb9i9e5mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
